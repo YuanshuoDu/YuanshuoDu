@@ -22,11 +22,26 @@
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-- **MSc Computer Science (Advanced Software Development)** — TU Dublin 🇮🇪 *(2024)*
-- **MSc International Business** —异域游子 *(2021)*
-- **BA English & American Literature** —某外语大学 *(2019)*
+**MSc Computer Science (Advanced Software Development)** | Dec 2022 – Dec 2024
+**Technological University Dublin**, Dublin, Ireland
+- Main course: Software Design, Advanced Databases, Systems Architectures, Web Application Architectures, Secure Systems Development, Working with Data, Deep Learning, Programming Paradigms
+- **Result: 2:1**
+
+**MSc Management (International Business)** | Sep 2019 – Apr 2021
+**University of Sheffield**, Sheffield, UK
+- Main course: Marketing, Accounting and Financial Management, Managing People in Organizations
+- Agile Project Management Capabilities | ✭ **CMI Level 7 Award in Strategic Management and Leadership**
+
+**BA English and American Studies** | Sep 2015 – Jun 2019
+**University of Pannonia**, Hungary
+- Main course: Business Communication, Event Management, British Literature, History and Linguistics
+- **GPA: 4.11/5**
+
+**Erasmus+ Exchange Scholarship** | Sep 2017 – Jul 2018
+**The University of the Balearic Islands**, Palma, Spain
+- Adaptability to new skills | Bilingual and cross-disciplinary research
 
 ---
 
